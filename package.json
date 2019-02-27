@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-plugin-purescript",
+  "description": "Add support for PureScript components to Gatsby",
+  "authors": "Madeline Trotter <spicydonuts@gmail.com>",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spicydonuts/gatsby-plugin-purescript",
+  "homepage": "https://github.com/spicydonuts/gatsby-plugin-purescript#readme",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "purescript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "purs-loader": "^3.3.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  }
+}
