@@ -2,7 +2,7 @@
   "name": "gatsby-plugin-purescript",
   "description": "Add support for PureScript components to Gatsby",
   "authors": "Madeline Trotter <spicydonuts@gmail.com>",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "https://github.com/spicydonuts/gatsby-plugin-purescript",
   "homepage": "https://github.com/spicydonuts/gatsby-plugin-purescript#readme",
