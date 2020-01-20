@@ -10,10 +10,10 @@ function onCreateWebpackConfig({ actions }) {
           exclude: /node_modules/,
           query: {
             src: [
-              "bower_components/purescript-*/src/**/*.purs",
               "src/**/*.purs"
             ],
-            pscIde: true
+            pscIde: true,
+            spago: true
           }
         }
       ]
